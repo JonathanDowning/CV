@@ -1,6 +1,6 @@
 # Jonathan Downing
 
-[Email](mailto:jobs@jonathandowning.uk) • [GitHub](https://github.com/JonathanDowning) • 
+[Email](mailto:jd@jonathandowning.uk) • [GitHub](https://github.com/JonathanDowning) • 
 [LinkedIn](https://www.linkedin.com/in/jonathanrdowning/) • [Personal Website](https://jonathandowning.uk)
 ### An iOS, macOS, and watchOS Developer
 
