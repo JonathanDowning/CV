@@ -16,19 +16,22 @@ I work best in teams that promote learning over knowing, and on projects that ha
 - **Web standards**, including OAuth, JWT, and the design, implementation, and consumption fo REST APIs.
 
 ## Work Accomplishments
-#### **Software Engineer**, [Ultra Horizon](https://ultra-horizon.com), *July 2017 – Present*
+
+#### **iOS Engineer**, [Popsa](https://popsa.com), *August 2018 - Present*
+
+#### **iOS Engineer**, [Ultra Horizon](https://ultra-horizon.com), *July 2017 – July 2018*
 
 - Developed [UH Net](https://itunes.apple.com/us/app/uh-net/id1257116295?platform=iphone&preserveScrollPosition=true#platform/iphone), in collaboration with a designer and project manager, for both iOS and macOS from empty projects to App Store submission.
 - Learned and adopted [StoreKit](https://developer.apple.com/documentation/storekit) and [NetworkExtension](https://developer.apple.com/documentation/networkextension), two Apple frameworks with which I had no prior experience.
 - Implemented a server-side receipt validation service, in Python, to verify in-app purchases securely.
 - Personally set up a continuous integration system (based on [Bitrise](https://www.bitrise.io)) to automate unit/UI tests, beta testing, and App Store submission.
 
-#### **Software Engineer**, [GWS Media](https://www.gwsmedia.com), *September 2016 – July 2017*
+#### **iOS Engineer**, [GWS Media](https://www.gwsmedia.com), *September 2016 – July 2017*
 
 - Rewrote the company’s flagship app, [Bristol Guide](https://itunes.apple.com/gb/app/bristol-guide-unique-places-to-visit-in-bristol/id398455034?platform=iphone&preserveScrollPosition=true#platform/iphone), as well as it’s server backend. The code and infrastructure was iOS 5 era and required major updates to feel at home on iOS 7.  
 - Spearheaded the adoption of software engineering best practices within the iOS team, such as utilising source code management, dependency managers, and unit testing.
 
-#### **Software Engineer Intern**, [Other Media](https://other.media), *August 2014 – August 2015*
+#### **iOS Engineer Intern**, [Other Media](https://other.media), *August 2014 – August 2015*
 
 - Developed [ECB for Apple Watch](https://other.media/ecb-apple-watch). My role included researching the capabilities of the then new [WatchKit](https://developer.apple.com/watchos/), working with designers on a new UI, and then coding the watch app in time for day one of Apple Watch’s release. We were proud to be featured in Apple's [web](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=vsbu4zPqYCE4UcLXesnwZtpwtJw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjheceJeLWj90ATeyUIjQBjduu1EWPnEY68I4npKIpz3sGwcJn5agYUbhl4lWdI) and [email](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=RX19IEZ0XZyW2ysCtwFPp2cBTCQ%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjtepXWcLf0oUBHcSpQjQBhLOi1SDS0Ro65Ldzse914j5TjcZf5agYUbhl4lWdI) marketing.
 - Worked on the live scores [today view widget](https://developer.apple.com/design/human-interface-guidelines/ios/extensions/widgets/) and HTTP live streaming of matches using [AVFoundation](https://developer.apple.com/av-foundation/) for the [Arsenal F.C. app](https://other.media/arsenal-mobile-app).
