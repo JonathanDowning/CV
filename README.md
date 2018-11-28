@@ -21,7 +21,7 @@ I work best in teams that promote learning over knowing, and on projects that ha
 
 #### **iOS Engineer**, [Ultra Horizon](https://ultra-horizon.com), *July 2017 – July 2018*
 
-- Developed [UH Net](https://itunes.apple.com/us/app/uh-net/id1257116295?platform=iphone&preserveScrollPosition=true#platform/iphone), in collaboration with a designer and project manager, for both iOS and macOS from empty projects to App Store submission.
+- Developed [UH Net](https://itunes.apple.com/us/app/uh-net/id1257116295?platform=iphone), in collaboration with a designer and project manager, for both iOS and macOS from empty projects to App Store submission.
 - Learned and adopted [StoreKit](https://developer.apple.com/documentation/storekit) and [NetworkExtension](https://developer.apple.com/documentation/networkextension), two Apple frameworks with which I had no prior experience.
 - Implemented a server-side receipt validation service, in Python, to verify in-app purchases securely.
 - Personally set up a continuous integration system (based on [Bitrise](https://www.bitrise.io)) to automate unit/UI tests, beta testing, and App Store submission.
@@ -45,7 +45,7 @@ Voluntarily withdrew from this course, as I was eager to pursue a career in soft
 
 - AirWeather ([iPhone](https://itunes.apple.com/us/app/airweather/id917461874?platform=iphone) / [iPad](https://itunes.apple.com/us/app/airweather/id917461874?platform=ipad))
 - Arsenal Football Club ([iPhone](https://itunes.apple.com/us/app/arsenal/id332060637) / [iPad](https://itunes.apple.com/us/app/arsenal/id332060637?platform=ipad))
-- Bristol Guide ([iPhone](https://itunes.apple.com/gb/app/bristol-guide-unique-places-to-visit-in-bristol/id398455034?platform=iphone&preserveScrollPosition=true#platform/iphone) / [iPad](https://itunes.apple.com/gb/app/bristol-guide-unique-places-to-visit-in-bristol/id398455034?platform=ipad))
+- Bristol Guide ([iPhone](https://itunes.apple.com/gb/app/bristol-guide-unique-places-to-visit-in-bristol/id398455034?platform=iphone) / [iPad](https://itunes.apple.com/gb/app/bristol-guide-unique-places-to-visit-in-bristol/id398455034?platform=ipad))
 - English Cricket Board ([iPhone](https://itunes.apple.com/us/app/ecb-cricket/id314954199?platform=iphone) / [iPad](https://itunes.apple.com/us/app/ecb-cricket-live/id898318883?mt=8) / [Apple Watch](https://itunes.apple.com/us/app/ecb-cricket/id314954199?platform=appleWatch))
 - Popsa ([iPhone](https://itunes.apple.com/gb/app/popsa/id936799728#?platform=iphone) / [iPad](https://itunes.apple.com/gb/app/popsa/id936799728#?platform=ipad))
-- UH Net ([iPhone](https://itunes.apple.com/us/app/uh-net/id1257116295?platform=iphone) / [iPad](https://itunes.apple.com/us/app/uh-net/id1257116295?platform=ipad) / [Mac](https://itunes.apple.com/us/app/uh-net/id1360627098))
+- UH Net ([iPhone](https://itunes.apple.com/us/app/uh-net/id1257116295?platform=iphone) / [iPad](https://itunes.apple.com/us/app/uh-net/id1257116295?platform=ipad) / [Mac](https://itunes.apple.com/us/app/uh-net/id1360627098?platform=mac))
