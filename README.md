@@ -13,7 +13,7 @@ I work best in teams that promote learning over knowing, and on projects that ha
 - Respecting the importance of **readable and maintainable code** for humans, using clear method and variable names, commenting effectively, and designing for testability.
 - **Source Code Management** using Git. Project management using GitHub Issues, Pull Requests, and Milestones.
 - **Continuous Integration** using tools such as [Buddybuild](https://www.buddybuild.com) and [Bitrise](https://www.bitrise.io).
-- **Web standards**, including OAuth, JWT, and the design, implementation, and consumption fo REST APIs.
+- **Web standards**, including OAuth, JWT, and the design, implementation, and consumption of REST APIs.
 
 ## Work Accomplishments
 
